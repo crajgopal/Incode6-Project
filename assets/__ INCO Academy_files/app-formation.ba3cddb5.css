@@ -1,0 +1,1352 @@
+.collaborators[data-v-6286ab70]{display:flex;align-items:center}.collaborators .label[data-v-6286ab70]{margin-left:8px;color:#5f6577;font-weight:600;font-size:13px}
+
+.setting .setting-header[data-v-50ebe330]{display:flex;align-items:center;justify-content:space-between}.setting .setting-header .setting-description[data-v-50ebe330]{display:flex;flex-direction:column;width:480px}.setting .setting-header .setting-description .setting-title-container[data-v-50ebe330]{display:flex}.setting .setting-header .setting-description .setting-title-container .setting-title[data-v-50ebe330]{margin-bottom:4px;color:#18191d;font-weight:600;font-size:14px;line-height:20px}.setting .setting-header .setting-description .setting-title-container .setting-tooltip[data-v-50ebe330]{margin-left:8px}.setting .setting-header .setting-description .setting-subtitle[data-v-50ebe330]{color:#5f6577;font-size:14px;line-height:20px}
+
+.estimated-duration-input-container[data-v-6ee8334b]{display:flex;align-items:center;justify-content:left;margin-top:12px}.estimated-duration-input-container .estimated-duration-input[data-v-6ee8334b]{width:42px}.estimated-duration-input-container span[data-v-6ee8334b]{margin-left:8px;color:#5f6577;font-size:14px;line-height:20px}
+
+.lang[data-v-5ba07894] .arrows span{display:block;padding-top:11px}.lang .lang-select-item[data-v-5ba07894]{position:relative;height:28px;line-height:28px}.lang .lang-select-item .lang-label[data-v-5ba07894]{margin-left:2px;text-align:left}.lang.small-dropdown[data-v-5ba07894] .list .list-row{padding:0 5px}.lang.small-dropdown[data-v-5ba07894] .arrows span{padding-top:7px}.lang.small-dropdown .lang-select-item[data-v-5ba07894]{height:28px;line-height:28px}
+
+.mobile-sharing-content[data-v-28e5977f]{margin-top:12px}.mobile-sharing-content .subsetting-input-container[data-v-28e5977f]{display:flex;align-items:center}.mobile-sharing-content .subsetting-input-container .label[data-v-28e5977f]{margin-left:12px;color:#484d59;font-size:14px;line-height:20px}.mobile-sharing-content .subsetting-input-container .tooltip[data-v-28e5977f]{margin-left:8px}.mobile-sharing-content[data-v-28e5977f]>:not(:first-child){margin-top:12px}
+
+.input-container[data-v-801ba148]{margin-top:12px}.input-container .label[data-v-801ba148]{color:#484d59;font-size:14px;line-height:20px}.input-container .input-with-description[data-v-801ba148]{display:flex;align-items:center;justify-content:left;margin-top:12px}.input-container .input-with-description .input[data-v-801ba148]{width:42px}.input-container .input-with-description .questions-count[data-v-801ba148]{margin-left:8px;color:#82889a;font-size:14px;line-height:20px}
+
+.requirement-image-container[data-v-69629673]{width:32px;height:32px;margin-left:16px}.requirement-image-container .icon[data-v-69629673]{flex-shrink:0;color:#82889a}
+
+.requirement-selectors[data-v-93ec09f4]{display:flex}.requirement-selectors .requirement-selector[data-v-93ec09f4]{margin-right:8px}
+
+.requirements-container[data-v-80928492]{margin-top:12px;padding:16px;background-color:#fafafd;border-radius:8px}.requirements-container .requirements-selectors[data-v-80928492]{display:flex;align-items:center;justify-content:center}.requirements-container .selected-requirements-container[data-v-80928492]{display:flex;flex-direction:column;margin-top:16px}.requirements-container .selected-requirements-container .requirement-card[data-v-80928492]{margin-top:8px}.requirements-container .selected-requirements-container .requirement-card[data-v-80928492]:first-of-type{margin-top:0}
+
+.body-container[data-v-0effc060]{height:570px;margin:4px 0}.body-container .body-content[data-v-0effc060]{padding:20px 24px}.body-container .body-content[data-v-0effc060]>:not(:first-child){margin-top:20px;padding-top:20px;border-top:#e6e9f0 solid 1px}
+
+.navigation-button[data-v-77e9ad52]{display:flex;align-items:center;height:100%;margin:0 6px;border-bottom:2px solid transparent}.navigation-button[data-v-77e9ad52]:hover{border-color:#f3f3f9}.navigation-button.selected[data-v-77e9ad52]{border-color:#2567f4}
+
+.tooltip-content[data-v-347f4d7a]{padding:8px}
+
+.tooltip-content[data-v-9681120c]{padding:8px}
+
+.group-cell[data-v-5ec402fe]{display:flex;align-items:center;width:100%;min-width:0}.group-cell .group-logo[data-v-5ec402fe]{display:flex;flex-shrink:0;margin-right:12px}.group-cell .group-info[data-v-5ec402fe]{display:flex;flex-direction:column;min-width:0;font-size:14px;line-height:20px}.group-cell .group-info .name[data-v-5ec402fe]{color:#484d59;font-weight:600}.group-cell .group-info .learners[data-v-5ec402fe]{color:#82889a;font-weight:400}.group-cell .loading-bar[data-v-5ec402fe]{width:100%;margin:16px 0}
+
+.selectable-group-list[data-v-73e9e168]{display:flex;flex-direction:column;min-height:0}.selectable-group-list .group-list-header[data-v-73e9e168]{display:flex;align-items:center;justify-content:space-between;margin:12px 16px;padding:0 8px;color:#484d59;font-weight:400;font-size:14px;line-height:20px}.selectable-group-list .header-right-elements[data-v-73e9e168]{display:flex}.selectable-group-list .select-all[data-v-73e9e168]{display:flex}.selectable-group-list .select-all[data-v-73e9e168]:not(.disabled){cursor:pointer}.selectable-group-list .scroll-container[data-v-73e9e168]{display:flex;flex-direction:column}.selectable-group-list .checkbox[data-v-73e9e168]{margin-right:16px}.selectable-group-list .disabled>.checkbox[data-v-73e9e168]{cursor:auto}.selectable-group-list .group-row[data-v-73e9e168]{display:flex;flex-grow:1;min-width:0;margin:0 16px;padding:12px 8px;border-radius:8px}.selectable-group-list .group-row[data-v-73e9e168]:not(.disabled){cursor:pointer}.selectable-group-list .group-row[data-v-73e9e168]:not(.disabled):hover{background-color:#f3f3f9}.selectable-group-list .actions[data-v-73e9e168]{display:flex;flex-shrink:0;align-items:center}.selectable-group-list .empty-state[data-v-73e9e168]{padding:0 24px;font-weight:400;font-size:14px;line-height:20px}.selectable-group-list .cta-buttons[data-v-73e9e168]{display:flex;flex-shrink:0;justify-content:center;margin:12px 24px 0}.selectable-group-list .cta-buttons>*[data-v-73e9e168]{flex-grow:1}
+
+.tooltip-content[data-v-7739333e]{padding:8px}
+
+.warning-icon[data-v-b2bdf2ce]{margin-left:12px;color:#ff853e}.tooltip-content[data-v-b2bdf2ce]{display:flex;flex-direction:column;padding:8px}
+
+.header-catalog[data-v-6ceab3ca],.header-library[data-v-6ceab3ca]{display:flex;justify-content:center;width:80px}.header-delete[data-v-6ceab3ca]{width:32px}.toggle-button[data-v-6ceab3ca]{margin:0 24px}
+
+.group-sharing-options[data-v-732371a0]{display:flex;flex-direction:column;min-height:0;padding-bottom:12px}.group-sharing-options .search-bar[data-v-732371a0]{margin:0 24px 12px}
+
+.group-sharing-title[data-v-445d21ef]{display:flex}.group-sharing-title .info-panel[data-v-445d21ef]{margin-left:10px}.info-panel-content[data-v-445d21ef]{display:flex;flex-direction:column;padding:0 8px}.info-panel-content>*[data-v-445d21ef]{margin:8px 0}.info-panel-content .info-panel-title[data-v-445d21ef]{font-weight:600}
+
+.sharing-options[data-v-5516cc1d]{display:flex;flex-direction:column}.sharing-options .title[data-v-5516cc1d]{margin:24px;margin-bottom:12px;color:#5f6577;font-weight:600;font-size:14px;line-height:20px}.sharing-options .loading-bar[data-v-5516cc1d]{margin:24px}
+
+.options-tooltip-content[data-v-8a447446]{width:500px;max-height:70vh}.disabled-tooltip-content[data-v-8a447446]{padding:8px}
+
+.subtitle[data-v-ca0ecbba],.title[data-v-ca0ecbba]{width:100%;max-width:500px;overflow:hidden;text-overflow:ellipsis}.title[data-v-ca0ecbba]{color:#18191d;font-size:18px;line-height:28px}.title .with-subtitle[data-v-ca0ecbba]{font-size:16px;line-height:24px}.subtitle[data-v-ca0ecbba]{color:#5f6577;font-size:12px;line-height:20px}
+
+.chrono-display[data-v-7c5d62df]{padding:4px 8px;color:#484d59;font-weight:400;font-size:16px;line-height:24px;border-radius:8px}.chrono-display.clickable[data-v-7c5d62df]{cursor:pointer}.chrono-display.clickable[data-v-7c5d62df]:hover{background:#f3f3f9}.tooltip-content[data-v-7c5d62df]{padding:8px}
+
+.body[data-v-ebc48766]{display:flex;flex-direction:column;align-items:center;text-align:center}.body>img[data-v-ebc48766]{margin-bottom:20px}
+
+.inactivity-splashscreen[data-v-98a30188]{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;text-align:center;background-color:#f3f3f9}.inactivity-splashscreen .image[data-v-98a30188]{margin:48px}.inactivity-splashscreen .title[data-v-98a30188]{margin-bottom:32px;font-size:40px}.inactivity-splashscreen .text[data-v-98a30188]{margin-bottom:32px;color:#82889a;font-size:14px}
+
+.footer[data-v-e371b6f6]{padding:0 12px 12px}
+
+.popup-title[data-v-0b5a113f]{padding:24px;font-weight:600;font-size:16px}.popup-subtitle[data-v-0b5a113f]{padding:0 150px 24px;font-size:14px}.confirmation-footer[data-v-0b5a113f]{padding:0 12px 12px}
+
+.top-banner[data-v-1188a3d7]{display:flex;width:100%;height:56px;background:#fff;border-bottom:1px solid #e6e9f0}.left-items[data-v-1188a3d7]{display:flex;flex-basis:0;flex-grow:1;align-items:center;overflow:hidden;white-space:nowrap}.left-items .exit-button[data-v-1188a3d7]{margin-left:16px}.left-items .title[data-v-1188a3d7]{margin:0 8px}.middle-items[data-v-1188a3d7]{display:flex;align-items:center}.right-items[data-v-1188a3d7]{display:flex;flex-basis:0;flex-grow:1;align-items:center;justify-content:flex-end;white-space:nowrap}.right-items .section[data-v-1188a3d7]{display:flex;align-items:center}.right-items .section>*[data-v-1188a3d7]{margin-right:16px}.right-items .section[data-v-1188a3d7]:not(:last-child)::after{width:1px;height:20px;margin-right:16px;background:#e6e9f0;content:""}.right-items .review-completion-button[data-v-1188a3d7]{display:inline-block}
+
+.appFormation .screen.edit .form-field .link-with-icon {
+    font-weight: normal;
+}
+
+/** Course Options View **/
+.appFormation .screen.edit .course-options-view {
+    overflow: hidden;
+
+    background-color: #fff;
+}
+
+.appFormation .screen.edit .course-options-view .media-pickers {
+    position: relative;
+
+    max-width: 560px;
+    height: 135px;
+    margin: 0 auto;
+}
+
+.appFormation .screen.edit .course-options-view .media-pickers .form-field {
+    position: absolute;
+    left: 0;
+}
+
+.appFormation .screen.edit .course-options-view .media-pickers .form-field:last-child { /* trick when there's only one .form-field */
+    position: inherit;
+}
+
+.appFormation .screen.edit .course-options-view .media-pickers .form-field + .form-field {
+    position: absolute;
+    right: 0;
+    left: auto;
+}
+
+.appFormation .screen.edit .course-options-view .text-with-icon.link-with-icon {
+    position: relative;
+    top: -2px;
+    left: 15px;
+
+    margin-right: 15px;
+}
+
+.appFormation .screen.edit .course-options-view > * {
+    padding: 0 28px;
+}
+
+.appFormation .screen.edit .course-options-view > .element-header {
+    margin-top: 4px;
+    padding: 0;
+}
+
+.appFormation .screen.edit .course-options-view .form-field {
+    margin-bottom: 15px;
+}
+
+.appFormation .screen.edit .course-options-view .form-field.author {
+    width: 20%;
+}
+
+.appFormation .screen.edit .course-options-view .options-author {
+    display: inline-block;
+}
+
+.appFormation .screen.edit .course-options-view .widget-user-pic.disabled {
+    cursor: default;
+}
+
+.appFormation .screen.edit .course-options-view .form-field.coauthors {
+    position: relative;
+
+    width: 80%;
+}
+
+.appFormation .screen.edit .course-options-view .options-coauthors .userpics-container > * {
+    margin-right: 10px;
+}
+
+.appFormation .screen.edit .course-options-view .options-coauthors .userpics-container > *,
+.appFormation .screen.edit .course-options-view .options-coauthors > * {
+    float: left;
+    margin-bottom: 10px;
+}
+
+.appFormation .screen.edit .course-options-view .image-container,
+.appFormation .screen.edit .course-options-view .widget-mediapicker .mediapicker-content {
+    transform: translateZ(0); /* fix missing border-radius on chrome with retina display */
+}
+
+/** Help balloons **/
+.appFormation .screen.edit .form-label .widget-balloon {
+    top: auto;
+    bottom: 10px;
+    left: -64px !important;
+}
+
+.appFormation .screen.edit .form-label .form-error-indicator {
+    cursor: pointer;
+}
+
+.appFormation .screen.edit .form-label .form-error-indicator .widget-balloon {
+    bottom: 13px;
+
+    margin-bottom: 13px;
+}
+
+.appFormation .screen.edit .form-label .widget-balloon .triangle {
+    left: 61px;
+}
+
+.appFormation .screen.edit .form-label .widget-balloon .transparent {
+    left: 49px;
+}
+
+.appFormation .screen.edit .form-label .widget-balloon h2 {
+    margin: 0;
+
+    font-size: 12px;
+}
+
+.appFormation .screen.edit .form-label .widget-balloon ul {
+    list-style-type: disc;
+}
+
+.appFormation .screen.edit .form-label .widget-balloon ol,
+.appFormation .screen.edit .form-label .widget-balloon ul {
+    margin: 8px 0 0 15px;
+    padding-left: 15px;
+
+    list-style-position: outside;
+}
+
+.appFormation .screen.edit .form-label .widget-balloon ol:first-child,
+.appFormation .screen.edit .form-label .widget-balloon ul:first-child {
+    margin-top: 0;
+}
+
+.appFormation .screen.edit .form-label .icon-warning-circle.only-icon {
+    display: block;
+}
+
+/** Popup listing working programs when trying to delete a course **/
+.widget-modal .popup-cant-delete ul {
+    list-style-type: disc;
+}
+
+/** Creator's advices modal **/
+.creators-advices p {
+    margin: 10px;
+}
+
+.creators-advices .main {
+    margin: 15px 10px;
+
+    font-weight: 600;
+}
+
+.creators-advices .widget-checkbox {
+    display: block;
+    margin: 20px 5px 10px;
+}
+
+.creators-advices ul {
+    list-style-type: disc;
+}
+
+.creators-advices li {
+    margin: 10px 0 10px 12px;
+}
+
+/** Header **/
+.appFormation .screen.edit .element-status {
+    position: relative;
+
+    color: #bbb; /* #CCC */
+    line-height: 21px;
+
+    background-color: #fff; /* avoid IE8 transparency bug */
+}
+
+.appFormation .screen.edit .element-status > * {
+    margin-left: 25px;
+
+    cursor: pointer;
+}
+
+.appFormation .screen.edit .element-status > * > * {
+    margin-left: 5px;
+}
+
+/** Title / Header **/
+.appFormation .screen.edit .element-title-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.appFormation .screen.edit .element-title {
+    flex: 1 1;
+    margin-right: 30px;
+}
+
+.appFormation .screen.edit .element-header-text {
+    margin-top: 0;
+
+    vertical-align: middle;
+}
+
+.appFormation .screen.edit .element-header > .clear-after {
+    margin: 6px 0;
+}
+
+.appFormation .screen.edit .element-header > .hline {
+    margin: 0 28px;
+}
+
+.appFormation .screen.edit .element-header-icon {
+    display: inline-block;
+    float: none;
+    margin: 0 12px 0 34px;
+
+    vertical-align: middle;
+}
+
+.appFormation .screen.edit .element-header-status {
+    margin: 0 34px 0 12px;
+}
+
+/** Media **/
+.appFormation .screen.edit .element-media-picker {
+    margin-top: 20px;
+}
+
+/** Body **/
+.appFormation .screen.edit .element-view {
+    padding-bottom: 30px;
+}
+
+.appFormation .screen.edit .element-view > * {
+    padding: 0 28px;
+}
+
+.appFormation .screen.edit .element-view > .element-header {
+    padding: 0;
+}
+
+.appFormation .screen.edit .element-view .section {
+    margin-top: 30px;
+}
+
+/** MediaView **/
+.appFormation .screen.edit .media-view .element-title-wrapper {
+    padding: 0;
+}
+
+.appFormation .screen.edit .media-view .element-title {
+    margin-right: 0;
+    padding: 0 28px;
+}
+
+.appFormation .screen.edit .media-view .element-title .widget-balloon {
+    top: 10px;
+    bottom: auto;
+}
+
+.appFormation .screen.edit .media-view .media-options {
+    position: relative;
+
+    height: 60px;
+
+    text-align: left;
+}
+
+.appFormation .screen.edit .media-view .media-options > .widget.widget-small-icon.settings {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+
+.appFormation .screen.edit .media-view .form-section {
+    padding-top: 5px;
+}
+
+/** Question **/
+.appFormation .screen.edit .question-view .answer-values .answer-radios {
+    font-size: 18px;
+    line-height: 1.4em;
+
+    border-left: 5px solid #eee;
+}
+
+.appFormation .screen.edit .question-view .specific .form-field {
+    margin-bottom: 20px;
+}
+
+.appFormation .screen.edit .question-view .specific .form-sublabel {
+    font-size: 13px;
+}
+
+.appFormation .screen.edit .question-view .form-field .widget.widget-radios {
+    padding: 10px 0 10px 28px;
+}
+
+.appFormation .screen.edit .question-view .form-field .widget.widget-radios .widget-radio {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.appFormation .screen.edit .question-view .form-field .widget.widget-radios .widget-radio:first-child {
+    margin-top: 0;
+}
+
+.appFormation .screen.edit .question-view .form-field .widget.widget-radios .widget-radio > span {
+    padding-left: 15px;
+}
+
+.appFormation .screen.edit .question-view .form-field .widget.expanding-area .textarea {
+    font-weight: lighter;
+}
+
+.appFormation .screen.edit .question-view .actions a {
+    display: block;
+    padding: 10px 0;
+
+    background-color: #eee;
+}
+
+.appFormation .screen.edit .question-view .actions a:hover {
+    background-color: #eee; /* #DDD */
+}
+
+.appFormation .screen.edit .question-view .actions .actions-icon {
+    position: relative;
+
+    display: inline-block;
+}
+
+.appFormation .screen.edit .question-view .actions .course-icon-add-answer {
+    position: absolute;
+    top: -16px;
+    left: -36px;
+}
+
+.appFormation .screen.edit .question-view .actions span {
+    color: #333;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.appFormation .question-view .element-title .form-label {
+    line-height: 24px; /* height(icon-add-line) + margin */
+}
+
+.appFormation .question-view .description-button {
+    position: relative;
+    top: 4px;
+
+    display: inline-block;
+    margin-left: 12px;
+
+    cursor: pointer;
+}
+
+.appFormation .question-view .tinymce-container {
+    margin-bottom: 20px;
+}
+
+.appFormation .question-view .specific .form-section {
+    margin-top: 0;
+}
+
+.appFormation .question-view .warnAddDescription {
+    margin-top: 10px;
+    margin-bottom: -20px;
+
+    color: #194883;
+}
+
+/** QuestionMC **/
+.appFormation .screen.edit .question-view-mc .answer-value {
+    position: relative;
+
+    padding: 10px 0 10px 25px;
+}
+
+.appFormation .screen.edit .question-view-mc .answer-value:hover {
+    background-color: #fafafa;
+}
+
+.appFormation .screen.edit .question-view-mc .answer-value input {
+    display: none;
+}
+
+.appFormation .screen.edit .question-view-mc .answer-value .widget.widget-checkbox {
+    float: left;
+
+    cursor: pointer;
+}
+
+.appFormation .screen.edit .question-view-mc .answer-value .widget.expanding-area {
+    margin: 0 30px 0 31px;
+
+    background-color: transparent;
+    border: 0;
+}
+
+.appFormation .screen.edit .question-view-mc .actions > a {
+    padding-left: 71px;
+}
+
+.appFormation .screen.edit .question-view-mc .actions .course-icon-add-answer {
+    left: -37px;
+}
+
+/** QuestionSingleSelection **/
+.appFormation .screen.edit .question-view-singleselection .actions > a {
+    padding-left: 71px;
+}
+
+.appFormation .screen.edit .question-view-singleselection .actions .course-icon-add-answer {
+    left: -37px;
+}
+
+/** QuestionOrder **/
+.appFormation .screen.edit .question-view-order .answer-values {
+    margin-right: 20px;
+}
+
+.appFormation .screen.edit .question-view-order .answer-value {
+    position: relative;
+
+    cursor: move;
+}
+
+.appFormation .screen.edit .question-view-order .answer-value:first-child {
+    padding-top: 0;
+}
+
+.appFormation .screen.edit .question-view-order .answer-value:hover {
+    background-color: #fafafa;
+}
+
+.appFormation .screen.edit .question-view-order .answer-value .icon-delete-wrapper {
+    position: absolute;
+    top: 17px;
+    right: -25px;
+
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+
+    cursor: pointer;
+}
+
+.appFormation .screen.edit .question-view-order .answer-value .widget.expanding-area {
+    background-color: transparent;
+    border: 0;
+}
+
+.appFormation .screen.edit .question-view-order .answer-value input {
+    float: left;
+    margin-top: 7px;
+}
+
+.appFormation .screen.edit .question-view-order .answer-draggable {
+    margin-right: 30px;
+    padding: 10px 30px;
+}
+
+.appFormation .screen.edit .question-view-order .answer-draggable .course-icon-draggable {
+    position: absolute;
+    top: 19px;
+    left: 10px;
+}
+
+.appFormation .screen.edit .question-view-order .answer-draggable .widget.expanding-area > .input-placeholder {
+    top: 0;
+}
+
+.appFormation .screen.edit .question-view-order .actions > a {
+    padding-left: 72px;
+}
+
+/** QuestionLinker **/
+.appFormation .screen.edit .question-view-linker .answer-values {
+    margin-right: 20px;
+
+    border-right-width: 5px !important;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-value {
+    position: relative;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-value:first-child {
+    padding-top: 0;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-value .course-icon-linker {
+    position: absolute;
+    top: 15px;
+    right: 0;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-value .icon-delete-wrapper {
+    position: absolute;
+    top: 16px;
+    right: -25px;
+
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+
+    cursor: pointer;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-value .widget.expanding-area {
+    background-color: transparent;
+    border: 0;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-draggable {
+    padding: 10px 30px;
+}
+
+.appFormation .screen.edit .question-view-linker .answer-draggable .course-icon-draggable {
+    position: absolute;
+    top: 19px;
+    right: 10px;
+
+    display: none;
+}
+
+.appFormation .screen.edit .question-view-linker .ui-sortable-handle .answer-draggable {
+    cursor: move;
+}
+
+.appFormation .screen.edit .question-view-linker .ui-sortable-handle .answer-draggable .course-icon-draggable {
+    display: block;
+}
+
+.appFormation .screen.edit .question-view-linker .ui-sortable:first-child .answer-draggable .course-icon-draggable {
+    left: 10px;
+}
+
+.appFormation .screen.edit .question-view-linker .actions > a {
+    margin-right: 20px;
+
+    text-align: center;
+}
+
+/** QuestionArea **/
+.appFormation .screen.edit .question-view-area .element-title {
+    margin-right: 0;
+}
+
+.appFormation .screen.edit .question-view-area .form-label a {
+    position: relative;
+    top: -1px;
+
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.appFormation .screen.edit .question-view-area .form-sublabel {
+    margin-bottom: 25px;
+}
+
+.appFormation .screen.edit .question-view-area .form-sublabel ul {
+    margin: 8px 0;
+    padding-left: 14px;
+
+    list-style-type: disc;
+}
+
+.appFormation .screen.edit .question-view-area .specific > .form-section {
+    margin-top: 0;
+}
+
+.appFormation .screen.edit .question-view-area .specific-wrapper {
+    padding: 15px 20px;
+
+    border-left: 5px solid #eee;
+}
+
+.appFormation .screen.edit .question-view-area .answer-values {
+    border-left: none;
+}
+
+.appFormation .screen.edit .question-view-area .answer-values > .image-container {
+    overflow: visible;
+}
+
+/* Question Fill the Gap */
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input {
+    position: relative;
+
+    min-height: 100px;
+    padding: 6px 10px;
+
+    font-size: 16px;
+
+    outline: none;
+}
+
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input div,
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input em,
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input strong,
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input strike,
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input b,
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input i {
+    margin: 0;
+    padding: 0;
+
+    font-weight: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    font-style: inherit;
+    text-decoration: inherit;
+
+    border: 0;
+}
+
+.appFormation .screen.edit .question-view-gap .specific .gapfill-input u {
+    color: #00c4a7;
+}
+
+.alternative-solutions-popin .alternative-solution {
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.alternative-solutions-popin .alternative-solution.reduced-margin-bottom {
+    margin-bottom: 5px;
+}
+
+.alternative-solutions-popin .alternative-solution-text {
+    float: left;
+    width: 85%;
+    height: 30px;
+    padding-top: 6px;
+}
+
+.alternative-solutions-popin .alternative-solution-icon {
+    float: right;
+}
+
+/** Layout **/
+.appFormation .element-container-right {
+    height: 100%;
+}
+
+/** Author link **/
+.appFormation .screen-pane .author-link {
+    padding: 26px 12px 0;
+}
+
+.appFormation .screen-pane .author-link .widget-user-pic {
+    float: left;
+}
+
+.appFormation .screen-pane .author-link .widget-user-link {
+    margin-left: 10px;
+}
+
+.appFormation .screen-pane .author-link .forum-likes .widget-user-link {
+    margin-left: 0;
+}
+
+.appFormation .screen-pane .author-link .date {
+    margin-left: 80px;
+
+    color: #9e9e9e; /* #ABABAB */
+}
+
+.appFormation .screen-pane .author-link .forum-likes .like-wrapper {
+    margin: 5px 0 17px 12px;
+}
+
+/** Header **/
+.appFormation .screen.play .element-header-title {
+    display: table;
+    width: 100%;
+    min-height: 50px;
+    padding: 16px 30px 19px 34px;
+}
+
+/** challenge timer **/
+.appFormation .screen.play .challenge-timer {
+    position: relative;
+
+    display: table;
+    width: 100%;
+    height: 80px;
+    padding-right: 40px;
+}
+
+.appFormation .screen.play .challenge-timer-anim-container {
+    display: table-cell;
+    width: 80px;
+    height: 80px;
+}
+
+.appFormation .screen.play .challenge-timer-anim {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+
+    background: url(/client/dist/platform/public/assets/images/platform/gif/challenge-timer.e594124f.gif) no-repeat center center;
+}
+
+.appFormation .screen.play .challenge-timer-motivation {
+    top: 0;
+    left: 80px;
+
+    display: table-cell;
+    max-width: 1000px;
+
+    font-size: 11px;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+}
+
+.appFormation .screen.play .challenge-timer-users {
+    top: 0;
+    right: 25px;
+
+    float: right;
+    height: 80px;
+
+    white-space: nowrap;
+}
+
+.appFormation .screen.play .challenge-timer-users-hidden,
+.appFormation .screen.play .challenge-timer-user-pics {
+    display: inline-block;
+    height: 80px;
+    padding-top: 22px;
+
+    vertical-align: top;
+}
+
+.appFormation .screen.play .challenge-timer .not-visible,
+.appFormation .screen.play .challenge-timer .widget-user-pic {
+    display: inline-block;
+    margin-right: -10px;
+}
+
+.appFormation .screen.play .challenge-timer .not-visible {
+    position: relative;
+
+    width: 36px;
+    height: 36px;
+    padding: 8px 13px;
+
+    font-weight: 600;
+}
+
+.appFormation .screen.play .challenge-timer .not-visible,
+.appFormation .screen.play .challenge-timer .widget-user-pic .image-container {
+    border-width: 2px;
+}
+
+.appFormation .screen.play .element-header-title .element-title {
+    display: table-cell;
+    padding-right: 7px;
+
+    vertical-align: middle;
+}
+
+.appFormation .screen.play .element-header-title .element-title .screen-title {
+    padding-top: 9px;
+}
+
+.appFormation .screen.play .element-author {
+    float: right;
+}
+
+/** Forum **/
+.appFormation .screen-pane .forum-view.top-margin {
+    margin-top: 15px;
+}
+
+.appFormation .screen-pane .forum-view .forum-msg-container {
+    margin-top: 12px;
+    overflow-y: hidden;
+}
+
+.appFormation .screen-pane .widget-publisher .publisher-media-panel .widget.training,
+.appFormation .screen-pane .forum-view .forum-message > .widget.training {
+    background-color: transparent;
+}
+
+.appFormation .screen-pane .forum-view .forum-message > .widget-user-pic {
+    left: 17px;
+}
+
+.appFormation .screen-pane .forum-view .simplebar-scroll-content {
+    margin-right: 0;
+}
+
+.appFormation .screen-pane .widget-publisher .widget.expanding-area > .input-placeholder {
+    font-size: 12px;
+}
+
+/** Instructions **/
+.appFormation .screen.play .instructions a {
+    color: #c72918;
+    text-decoration: underline;
+}
+
+.appFormation .screen.play .instructions-title {
+    margin-top: 16px;
+
+    font-weight: 600;
+}
+
+/** SheetView **/
+.appFormation .screen.play .sheet-view .widget.richtext-preview {
+    margin: 23px 34px;
+}
+
+/* Challenge popup */
+.challenge-content {
+    font-size: 14px;
+    text-align: center;
+}
+
+.challenge-content .padding-top {
+    padding-top: 20px;
+}
+
+.challenge-content .title {
+    font-size: 16px;
+}
+
+/** Header **/
+.appFormation .screen.play .report-view .report-header {
+    font-size: 16px;
+    text-align: center;
+}
+
+.appFormation .screen.play .report-view .report-header .contact-buttons {
+    width: 350px;
+    margin: 20px auto;
+}
+
+.appFormation .screen.play .report-view .report-header .header-actions > button {
+    margin: 0 10px;
+}
+
+/** Statistics **/
+.appFormation .screen.play .report-view .chart {
+    width: 544px;
+    height: 0;
+    margin: 18px auto 0;
+}
+
+.appFormation .screen.play .report-view .user-results-wrapper {
+    position: relative;
+
+    width: 544px;
+    margin: 0 auto;
+}
+
+.appFormation .screen.play .report-view .user-results {
+    position: absolute;
+    right: 10px;
+    bottom: 45px;
+
+    height: 10px;
+}
+
+.appFormation .screen.play .report-view .user-results > * {
+    position: absolute;
+}
+
+.appFormation .screen.play .report-view .highcharts-container {
+    z-index: 10 !important;
+}
+
+/** Recommendations **/
+.appFormation .screen .recommendations .section-discover {
+    text-align: center;
+}
+
+.appFormation .screen .recommendations .carousel-container {
+    position: relative;
+
+    margin-bottom: 25px;
+}
+
+.appFormation .screen .recommendations .carousel {
+    display: inline-block;
+    max-width: 990px;
+    max-height: 330px; /* useful before slick is loaded */
+    overflow: hidden;
+
+    white-space: nowrap;
+}
+
+.appFormation .screen .recommendations .slick-slide {
+    outline: none;
+}
+
+.appFormation .screen .recommendations .slick-track {
+    margin: auto;
+
+    text-align: center;
+}
+
+.appFormation .screen .recommendations .vertical-mini-box {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.appFormation .screen .recommendations .slide {
+    display: inline-block;
+}
+
+.appFormation .screen .recommendations .arrows {
+    position: relative;
+
+    max-width: 990px;
+    margin: auto;
+
+    text-align: right;
+}
+
+.appFormation .screen .recommendations .slick-arrow {
+    margin-right: 10px;
+}
+
+.appFormation .screen,
+.appFormation .screen-container {
+    position: relative;
+
+    overflow: hidden;
+}
+
+.appFormation .screen-title {
+    font-weight: 200;
+    font-size: 25px;
+    line-height: 1.2em;
+}
+
+/** Form **/
+.appFormation .form-label {
+    margin-bottom: 10px;
+
+    font-weight: normal;
+}
+
+.appFormation .widget.widget-checkbox .form-label {
+    margin-bottom: 0;
+}
+
+/** Pane: Narrowed forum **/
+.appFormation .forum-narrowed-container {
+    position: absolute;
+    top: 0;
+
+    width: 54px;
+}
+
+/** Menu **/
+.appFormation .menu {
+    position: relative;
+}
+
+.appFormation .menu-wrapper {
+    position: relative;
+
+    float: left;
+    width: 272px;
+    overflow: auto;
+}
+
+.appFormation .menu .elements {
+    position: relative;
+}
+
+.appFormation .menu .elements .element {
+    position: relative;
+
+    display: block;
+    height: 55px;
+
+    line-height: 55px;
+
+    cursor: pointer;
+}
+
+.appFormation .menu .elements .element:first-child {
+    margin-top: 0;
+}
+
+.appFormation .menu .elements .element .active-capsule {
+    position: absolute;
+    left: 13px;
+    z-index: 1;
+
+    width: 247px;
+    height: 55px;
+
+    line-height: normal;
+
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.appFormation .menu .elements .element .active-capsule > div {
+    margin-top: 4px;
+}
+
+.appFormation .menu .elements .element .element-name {
+    max-width: 171px;
+    margin-left: 10px;
+}
+
+.appFormation .menu .elements .element .element-order,
+.appFormation .menu .elements .element .element-name {
+    display: inline-block;
+
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.2em;
+    vertical-align: middle;
+}
+
+.appFormation .menu .elements .element .element-order,
+.appFormation .menu .elements .element .element-type {
+    display: inline-block;
+
+    text-align: center;
+}
+
+.appFormation .menu .elements .element .userpic-container .active-user {
+    margin: 8px 0 8px 8px;
+}
+
+.appFormation .menu .elements .element .element-order {
+    top: 19px;
+    left: 0;
+
+    width: 22px;
+
+    margin-left: 0;
+
+    font-size: 12px;
+}
+
+.appFormation .menu .elements .element .element-type {
+    width: 30px;
+}
+
+.appFormation.menu-reduced .menu .elements .element .element-type {
+    left: 0;
+}
+
+.appFormation .menu .elements .element-type-icon {
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+.appFormation .menu .elements .element-type-icon.course-icon-type-medias {
+    position: relative;
+    left: 1px;
+}
+
+.appFormation .menu-expander {
+    text-align: center;
+
+    cursor: pointer;
+}
+
+.appFormation .menu-expander > .course-icon-menu-enlarge {
+    display: inline-block;
+    margin: 21px 0 16px;
+}
+
+.appFormation .menu-reducer.expanded {
+    right: -12px;
+}
+
+.appFormation .menu-reducer.expanded:hover {
+    right: 0;
+}
+
+.appFormation .menu:hover ~ .menu-reducer.expanded {
+    right: 0;
+}
+
+.appFormation .menu-reducer {
+    position: absolute;
+    top: 50%;
+    right: -24px;
+
+    cursor: pointer;
+
+    transition: right 0.3s ease-in;
+}
+
+.appFormation .menu-reducer > .course-icon-menu-reduce {
+    position: relative;
+    top: -37px; /* height(icon) / -2 */
+}
+
+/** Menu: Scrollbar **/
+.appFormation .menu .simplebar-track .simplebar-scrollbar {
+    background-color: #9e9e9e;
+}
+
+.appFormation .menu .simplebar-track:hover .simplebar-scrollbar {
+    background-color: #9e9e9e;
+}
+
+.appFormation .menu:hover .simplebar-track .simplebar-scrollbar {
+    opacity: 0.7;
+}
+
+/** Menu: Header **/
+.appFormation .menu-header .wrapper-general-info {
+    display: block;
+    height: 52px;
+    margin: 0 auto;
+    padding-top: 18px;
+    padding-bottom: 20px;
+
+    font-weight: 600;
+    font-size: 10px;
+    text-align: center;
+
+    border-bottom: 1px solid #333;
+}
+
+.appFormation .menu-header .options-name + .course-name {
+    margin-top: 2px;
+}
+
+/** Top Menu **/
+.appFormation .menu-top > .anchor {
+    display: block;
+    height: 44px;
+}
+
+.appFormation .menu-top > a {
+    z-index: 313;
+
+    padding: 0 22px;
+
+    color: #bbb;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 44px;
+}
+
+.appFormation .meta-usage {
+    width: 210px;
+
+    height: 90px;
+
+    line-height: 90px;
+    text-align: center;
+}
+
+.appFormation .meta-usage > * {
+    display: inline-block;
+
+    line-height: normal;
+    vertical-align: middle;
+}
+
+.appFormation .meta-status * {
+    display: inline-block;
+}
+
+/** Meta header **/
+.appFormation .meta-container {
+    position: relative;
+
+    height: 90px;
+}
+
+.appFormation .meta-wrapper {
+    position: relative;
+
+    height: 90px;
+
+    line-height: 90px;
+}
+
+.appFormation .meta-wrapper .icon-duplicate-big,
+.appFormation .meta-wrapper .doc-icon-sco-new-small {
+    z-index: 5;
+
+    float: right;
+    margin-top: 30px;
+    margin-right: 55px;
+
+    cursor: pointer;
+}
+
+.appFormation .meta-wrapper .widget-icon-form-info {
+    z-index: 5;
+
+    float: right;
+    margin-top: 40px;
+    margin-right: 25px;
+}
+
+.appFormation .meta-wrapper .doc-icon-sco-new-small {
+    top: 20px;
+
+    cursor: default;
+}
+
+.appFormation .bt-resume-onboarding {
+    float: right;
+    margin-top: 23px;
+    margin-right: 28px;
+}
+
+/** Element: Header **/
+.appFormation .screen.play .sheet-download {
+    position: relative;
+
+    height: 40px;
+}
+
+.appFormation .screen .element-header-status {
+    float: right;
+    margin: 6px 34px 0 12px;
+}
+
+.appFormation .screen .element-header-text {
+    display: inline-block;
+    height: 21px;
+    margin-top: 7px;
+    overflow: hidden;
+
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 21px;
+}
+
+/** Social bar **/
+.appFormation .screen .social-bar .share-icons {
+    text-align: center;
+}
+
+/** Explorer **/
+.msg-modal .msg-content .table-view .icon-delete-wrapper {
+    position: relative;
+    bottom: 1px;
+}
+
+.appFormation.player {
+    min-width: 0;
+
+    font-size: 12px;
+    text-align: left;
+}
+
+.appFormation.player .screen {
+    z-index: auto;
+
+    margin-top: 0;
+    margin-left: 0;
+    padding-top: 0;
+
+    border-left: 0;
+}
+
+.appFormation.player .screen.edit .element-view {
+    padding-left: 0;
+}
+
+.appFormation.player .screen.play .element-view .actions {
+    border-bottom: 0;
+}
+
+.appFormation .mce-content-body img {
+    height: auto;
+}
+
+.platform[data-v-0cb012b4]{width:100%}.app-container[data-v-0cb012b4],.appFormation[data-v-0cb012b4]{display:flex;flex:1 1;min-width:0;height:100%;background-color:#fff}
+
+
+/*# sourceMappingURL=app-formation.ba3cddb5.css.map*/

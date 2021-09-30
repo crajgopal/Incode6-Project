@@ -1,0 +1,105 @@
+.mce-content-body {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 13px !important;
+
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+.mce-content-readonly {
+    color: #9e9e9e;
+
+    background-color: #eee;
+}
+
+.mce-content-body p {
+    margin: 0;
+}
+
+.mce-content-body strong,
+.mce-content-body b {
+    font-weight: 600;
+}
+
+.mce-content-body h1 {
+    padding-bottom: 4px;
+
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+
+    border-bottom: 1px solid #666;
+}
+
+.mce-content-body h2 {
+    padding-bottom: 4px;
+
+    font-weight: 600;
+    font-size: 21px;
+}
+
+.mce-content-body h3 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.mce-content-body img {
+    max-width: 100%;
+    margin-right: 7px;
+}
+
+.mce-content-body li img {
+    margin-right: 30px;
+}
+
+.mce-content-body ul {
+    padding-left: 3%;
+}
+
+.mce-content-body td,
+th {
+    font-size: 14px;
+}
+
+.mce-content-body a {
+    color: #00a0ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.mce-content-body pre {
+    padding: 14px;
+    overflow-x: auto;
+
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+
+    background-color: #f5f2f0;
+}
+
+.mce-content-body a:hover {
+    text-decoration: underline;
+}
+
+.mce-content-body img.opacity70-hover-d0 {
+    cursor: pointer;
+}
+
+.mce-content-body .mce-clonedresizable,
+.mce-content-body .mce-resize-helper {
+    position: absolute !important;
+}
+
+.mce-content-body span {
+    display: inline !important;
+
+    line-height: 1.5em !important;
+}
+
+.mce-content-body div.mce-resizehandle {
+    position: absolute !important;
+}

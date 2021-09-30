@@ -1,0 +1,183 @@
+.session-title[data-v-597ece2a]{width:530px;margin:20px auto;font-size:40px;line-height:44px}.session-subtitle[data-v-597ece2a]{width:530px;margin:20px auto;font-size:18px}.session-subtitle .session-status[data-v-597ece2a]{font-size:20px;text-transform:uppercase}
+
+.session-price[data-v-21d15208]{display:flex;align-items:center;justify-content:flex-end;height:55px;text-transform:uppercase}.session-price .price[data-v-21d15208]{font-size:16px}.session-price .excluded-vat[data-v-21d15208]{margin-top:-10px;font-size:9px}.session-price .per-training[data-v-21d15208]{margin-left:5px;font-size:12px}
+
+
+.pending-assessment[data-v-7ef5f7f9] {
+    font-size: 14px;
+    text-align: center;
+}
+.image-container[data-v-7ef5f7f9] {
+    margin: 0 auto 20px;
+
+    padding: 20px;
+}
+
+
+.image-container[data-v-9ca27b0e] {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* class is defined by WidgetImage */
+.image-container[data-v-a03061ea] {
+    margin: auto;
+}
+.delivered-certification[data-v-a03061ea] {
+    font-size: 14px;
+    text-align: center;
+}
+.delivered-certification > *[data-v-a03061ea] {
+    padding-top: 20px;
+}
+.title[data-v-a03061ea] {
+    font-size: 16px;
+}
+.download-certification[data-v-a03061ea] {
+    margin-bottom: 15px;
+}
+
+
+.calendar-list[data-v-47dad33d] {
+    margin-top: 19px;
+
+    list-style-type: disc;
+}
+.calendar-list > *[data-v-47dad33d] {
+    padding: 5px 0;
+}
+
+.widget-banner[data-v-d0d6ee2a]{position:relative;top:0;left:0;width:600px;height:160px;overflow:hidden;background:radial-gradient(ellipse at center, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.3) 100%)}.image-container[data-v-d0d6ee2a]{width:600px;height:160px}.module-info[data-v-d0d6ee2a]{padding:40px 40px 25px;font-size:13px}.module-info>*[data-v-d0d6ee2a]{margin-top:25px}.module-info[data-v-d0d6ee2a] :first-child{margin-top:0}.title[data-v-d0d6ee2a]{font-weight:lighter;font-size:26px}.description[data-v-d0d6ee2a]{white-space:pre-wrap}.add-to-calendar[data-v-d0d6ee2a]{font-weight:600}.team .team-title[data-v-d0d6ee2a]{margin-bottom:10px;font-size:14px}.team .widget-image[data-v-d0d6ee2a]{display:inline-block;margin:0 10px 10px 0}.team .email-icon[data-v-d0d6ee2a]{color:#fff}.attachments-section>*[data-v-d0d6ee2a]{margin-top:20px}.footer-actions[data-v-d0d6ee2a]{display:flex;align-items:center;justify-content:flex-end;padding:15px 19px}.footer-actions>*[data-v-d0d6ee2a]{margin-left:10px}
+
+.request-message[data-v-e7b1c1b8]{margin-bottom:20px}.request-message[data-v-e7b1c1b8] .widget.autogrow-input .placeholder{padding:10px;font-size:14px}.request-message[data-v-e7b1c1b8] .widget.autogrow-input .textarea{min-height:105px;font-size:16px}
+
+.action-button-subtitle[data-v-3b9dd3e8]{padding-top:5px;text-align:center}.action-button-subtitle .unblock-link[data-v-3b9dd3e8]{font-size:12px}.action-button-subtitle .subtitle-text[data-v-3b9dd3e8]{justify-content:left;color:#5f6577;font-size:12px}
+
+.loading-anim[data-v-b0b35042]{height:20px}
+
+.request-creation[data-v-a40efdda]{font-size:14px}.request-creation .form-section[data-v-a40efdda]{margin:20px 0 0}.request-creation .checkbox-with-link[data-v-a40efdda]{color:#bbb;font-size:12px}.request-creation .name-sections[data-v-a40efdda]{display:flex}.request-creation .name-sections>.form-section[data-v-a40efdda]{flex-basis:0;flex-grow:1;margin-top:0}.request-creation .name-sections>.form-section[data-v-a40efdda]:first-child{margin-right:5px}.request-creation .name-sections>.form-section[data-v-a40efdda]:last-child{margin-left:5px}.request-creation[data-v-a40efdda] .radios .radio{margin-bottom:5px}.request-creation .message-input[data-v-a40efdda] .textarea{min-height:100px}.request-creation .message-input[data-v-a40efdda] .textarea,.request-creation .message-input[data-v-a40efdda] .placeholder{font-size:14px}
+
+
+.action-button[data-v-d3c425ea] {
+    margin-top: 10px;
+}
+
+.registered-learners[data-v-39f7ea6c]{display:flex;align-items:center;padding:8px;color:#82889a;background-color:#fff;border:1px solid #e6e9f0;border-radius:8px}.registered-learners[data-v-39f7ea6c]:not(.disabled){cursor:pointer}.registered-learners[data-v-39f7ea6c]:not(.disabled):hover{border-color:#c0c4cc}.registered-learners-text[data-v-39f7ea6c]{font-size:14px}.registered-learners-icon[data-v-39f7ea6c]{margin-right:8px}
+
+.field-info[data-v-5fb74304]{display:flex;align-items:center}.field-info .icon[data-v-5fb74304]{flex:0 0 20px;margin-right:12px;color:#82889a}.field-info .text-container[data-v-5fb74304]{max-width:calc(100% - 32px);color:#484d59;font-size:14px;line-height:20px;overflow-wrap:break-word}
+
+.compact-view[data-v-55700404]{display:flex;flex-direction:column;padding:24px}.compact-view .header[data-v-55700404]{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}.compact-view .header .title[data-v-55700404]{display:flex;align-items:center;margin-right:8px;color:#484d59;font-weight:600;font-size:14px}.compact-view .header .title .virtual-tag[data-v-55700404]{margin-left:8px;color:#9b5a42;background-color:#ffe7d8}.compact-view .header .top-button-container[data-v-55700404]{flex-shrink:0}.compact-view .field-info[data-v-55700404]{margin-bottom:12px}.compact-view .field-info[data-v-55700404]:last-of-type{margin-bottom:0}.compact-view .footer[data-v-55700404]{display:flex;flex-direction:column;align-items:flex-end;margin-top:12px}
+
+.select-view[data-v-7c18931c]{cursor:pointer}.select-view.selected[data-v-7c18931c]{background-color:#eef3fe;border-color:#2567f4}
+
+.border-bottom[data-v-5e6da58d]{border-bottom:1px solid #e6e9f0}.classroom-slots[data-v-5e6da58d]{margin:24px}.classroom-slots .classroom-name[data-v-5e6da58d]{margin-bottom:12px;color:#18191d;font-weight:600;font-size:16px}.classroom-slots .classroom-slot[data-v-5e6da58d]{margin-bottom:12px}.classroom-slots .choose-later[data-v-5e6da58d]{padding:24px;color:#484d59;font-weight:600;font-size:14px;line-height:20px;border:1px solid #e6e9f0;border-radius:8px;cursor:pointer}.classroom-slots .choose-later.selected[data-v-5e6da58d]{background-color:#eef3fe;border-color:#2567f4}.footer-info[data-v-5e6da58d]{color:#484d59;font-weight:600;font-size:14px}
+
+
+.session-general > *[data-v-3300706a] {
+    margin-top: 25px;
+}
+
+.session[data-v-1de29270]{width:100%}
+
+
+/*# sourceMappingURL=app-session.b14ed726.css.map*/

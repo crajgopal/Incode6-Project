@@ -1,0 +1,298 @@
+.general-infos[data-v-6f373454]{text-align:center}.general-infos .profile-image[data-v-6f373454]{display:inline-block}.general-infos .profile-image[data-v-6f373454] .img-container{border-radius:75px}
+
+.filter-box .options[data-v-08b804cf]{padding:0 20px 20px}.filter-box .options .option[data-v-08b804cf]{padding:5px 0}.filter-box .options .option[data-v-08b804cf] .checkbox-label{align-items:center;width:100%;min-width:0}.filter-box .options .option .label[data-v-08b804cf]{flex:1 1 auto;margin-right:5px}.filter-box .options .unselectAll[data-v-08b804cf]{display:flex;align-items:center;padding:5px 0}.filter-box .options .unselectAll .label[data-v-08b804cf]{margin-left:10px}.filter-box .more[data-v-08b804cf]{width:23px;margin:auto;margin-top:10px;padding:4px;background-color:#eee;cursor:pointer}
+
+.app.profile .region.platform-width {
+    min-height: 700px;
+}
+.app.profile .loading-anim {
+    /*
+    TODO move this css as scoped in the vue subViews components
+    height: 150px;
+    margin-top: 60px;*/
+}
+.app.profile .icon-delete-wrapper {
+    padding: 5px;
+    height: 19px;
+    width: 20px;
+    display: inline-block;
+    vertical-align: bottom;
+    cursor: pointer;
+}
+.app.profile .widget.simple-box.scroll .loading-anim {
+    margin-top: 0;
+}
+.app.profile .warning {
+    text-align: center;
+    height: 85px;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 30px 0;
+}
+.app.profile .app-stats .section-sublabel {
+    font-size: 12px;
+    margin: 20px 0 10px;
+}
+.app.profile .profile-body {
+    padding: 20px 0;
+    margin-top: 20px;
+}
+.app.profile .active-profile-medias .medias-list {
+    padding: 0 0 20px 20px;
+}
+
+/** Header **/
+.app.profile .fullwidth-banner {
+    height: 480px;
+    display: table;
+    padding-top: 31px;
+    position: relative;
+    width: 100%;
+}
+.app.profile .fullwidth-banner .banner-container {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.app.profile .fullwidth-banner .general-infos {
+    display:table-cell;
+    vertical-align: bottom;
+}
+.app.profile .fullwidth-banner .profile-image {
+    width: 144px;
+    height: 144px;
+    padding: 8px;
+    margin: 0 auto 32px;
+    background-color: #FFF;
+}
+.app.profile .fullwidth-banner .general-infos .profile-image {
+    background-color: #FAFAFA;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.app.profile .fullwidth-banner .text-container {
+    position: relative;
+    min-height: 177px;
+}
+.app.profile .fullwidth-banner .text-container.no-job {
+    height: 177px;
+    padding-top: 30px;
+}
+.app.profile .fullwidth-banner .text-container.no-description-no-job {
+    max-height: 177px;
+    padding-top: 26px;
+}
+.app.profile .fullwidth-banner .text-container.no-description {
+    max-height: 177px;
+    padding-top: 10px;
+}
+.app.profile .fullwidth-banner .text-container .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #FFF;
+}
+.app.profile .fullwidth-banner .text-container .text {
+    position: relative;
+    text-align: center;
+    padding: 15px 0;
+}
+.app.profile .fullwidth-banner .text-container .user-name {
+    font-size: 24px;
+    color: #194883; /* #1C4981*/
+    font-weight: 600;
+    margin-bottom: 7px;
+    padding: 0 10px;
+}
+.app.profile .fullwidth-banner .text-container.no-job .user-name {
+    font-size: 26px;
+    display:inline-block;
+    margin-bottom: 1px;
+}
+.app.profile .fullwidth-banner .text-container.no-description .user-name {
+    font-size: 24px;
+    display:inline-block;
+    margin-bottom: 5px;
+    padding: 0 10px;
+}
+.app.profile .fullwidth-banner .text-container.no-description-no-job .user-name {
+    font-size: 26px;
+    display:inline-block;
+    margin-bottom: 1px;
+    padding: 0 10px;
+}
+.app.profile .fullwidth-banner .text-container .user-job {
+    font-size: 20px;
+    color: #448B9D;
+    font-weight: 600;
+    margin-bottom: 5px;
+    padding: 0 10px;
+}
+.app.profile .fullwidth-banner .text-container .user-description {
+    margin-bottom: 11px;
+}
+.app.profile .fullwidth-banner .text-container .user-description .description-text {
+    display: inline-block;
+    color: #666;
+    font-size: 11px;
+    font-style: italic;
+    width: 500px;
+}
+.app.profile .fullwidth-banner .text-container .user-job.editable,
+.app.profile .fullwidth-banner .text-container .user-description .description-text.editable {
+    cursor: pointer;
+}
+.app.profile .fullwidth-banner .text-container .user-links .link,
+.app.profile .fullwidth-banner .text-container .user-links .link > * {
+    display: inline-block;
+}
+.app.profile .fullwidth-banner .text-container .user-links .link {
+    margin-left: 13px;
+}
+.app.profile .fullwidth-banner .text-container .user-link:hover {
+    cursor: pointer;
+}
+.app.profile .fullwidth-banner .text-container .user-links .link:first-child {
+    margin-left: 0;
+}
+
+/** Workspace **/
+.app.profile .workspace .no-program,
+.app.profile .workspace .completed-programs {
+    font-style: italic;
+    padding: 20px 0;
+    text-align: center;
+}
+.app.profile .workspace .fc-body {
+    max-height: 300px;
+}
+.app.profile .workspace .program-row {
+    position: relative;
+}
+.app.profile .workspace .program-row .program-row-separator {
+    height: 1px;
+    margin: 0 auto;
+    width: 595px;
+}
+.app.profile .workspace .section-thread {
+    margin-bottom: 20px;
+}
+.app.profile .workspace .program-row.margin{
+    margin-bottom: 20px;
+}
+.app.profile .workspace .program-list .bandeau {
+    cursor: default;
+}
+
+/** Settings **/
+.app.profile .settings .form-container {
+    width: 480px;
+}
+.app.profile .settings .form-section {
+    margin: 15px 0 0;
+}
+.app.profile .settings .form-container .form-section:first-child {
+    margin-top: 0;
+}
+.app.profile .settings .form-container .form-actions {
+    margin: 25px 0;
+}
+.app.profile .settings .autocompletion .element.selectable .title {
+    margin: 0;
+    padding: 4px 6px;
+}
+.app.profile .form-field .widget.widget-checkbox {
+    margin: 20px 0;
+}
+.form-label.small-label {
+    font-size: 12px;
+}
+.app.profile .settings .options .widget-radios {
+    display: inline-block;
+    width: 286px;
+}
+.app.profile .settings .options .widget-radios .flag {
+    padding-left: 10px;
+}
+.app.profile .settings .options .widget-radios .flag > * {
+    margin-top: 4px;
+}
+.app.profile .settings .options .widget.info-box {
+    margin-top: 20px;
+}
+.app.profile .settings .options .hline {
+    margin: 20px 0;
+    width: 420px;
+}
+
+/** Medias **/
+.app.profile .medias-list .loading-anim {
+    height: 50px;
+    margin-top: 25px;
+}
+
+/*Stats user*/
+.stats-user {
+    width: 980px;
+}
+.app.profile .stats-user .col-style {
+    padding: 20px 0 10px;
+}
+.app.profile .stats-user .col-style > .section-thread,
+.app.profile .stats-user .col-style > * > .section-thread,
+.app.profile .stats-user .col-style .section-thread,
+.app.profile .stats-user .col-style > .subtitle {
+    margin: 0 20px 5px 20px;
+}
+.app.profile .stats-user .col-style > .subtitle {
+    margin-top: 20px;
+}
+.app.profile .stats-user .col-style.col-inner-gutter-h {
+    padding: 20px 20px 10px 20px;
+}
+
+/** Certifications **/
+.simple-box .certification-item {
+    position: relative;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    transition: background-color .3s;
+}
+.simple-box .certification-item:hover {
+    background-color: #EEE;
+}
+.simple-box .certification-item:last-child {
+    margin-bottom: 12px; /*20px (margin) - 8px (padding)*/
+}
+.simple-box .certification-item .certification-info {
+    display: inline-block;
+}
+.simple-box .certification-item .icon-certification-wrapper {
+    display: inline-block;
+    float: right;
+}
+.simple-box .certification-item .icon-certification-wrapper > * {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+.simple-box .certification-item .certification-title {
+    color: #194883;
+    font-weight: 600;
+    line-height: 15px;
+}
+.simple-box .certification-item .certification-title > * {
+    display: inline-block;
+}
+.simple-box .certification-item .date {
+    color: #BBB; /* #CACACA*/
+    font-size: 11px;
+}
+
+.app.profile[data-v-4683fe94]{width:100%}
+
+
+/*# sourceMappingURL=app-profile.7d56aa85.css.map*/
